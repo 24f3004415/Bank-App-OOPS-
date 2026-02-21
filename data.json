@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Mohit",
+        "age": 19,
+        "email": "mohit@piggybank.com",
+        "pin": 1234,
+        "phone": "1234567890",
+        "account_no": "63U4Gqf7",
+        "balance": 6000
+    },
+    {
+        "name": "Rohit",
+        "age": 20,
+        "email": "rohit@gmail.com",
+        "pin": 5555,
+        "phone": "1234567890",
+        "account_no": "Zr846G7n",
+        "balance": 0
+    },
+    {
+        "name": "sohan",
+        "age": 21,
+        "email": "sohan@gmail.com",
+        "pin": 1254,
+        "phone": "1254125412",
+        "account_no": "3e4va89I",
+        "balance": 5000,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 5000
+            }
+        ]
+    }
+]
